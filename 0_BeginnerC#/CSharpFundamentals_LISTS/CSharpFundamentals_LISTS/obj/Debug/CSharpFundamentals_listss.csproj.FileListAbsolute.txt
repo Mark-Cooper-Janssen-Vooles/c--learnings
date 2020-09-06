@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\bin\Debug\CSharpFundamentals_LISTS.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\bin\Debug\CSharpFundamentals_LISTS.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\bin\Debug\CSharpFundamentals_LISTS.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\obj\Debug\CSharpFundamentals_listss.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\obj\Debug\CSharpFundamentals_listss.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\obj\Debug\CSharpFundamentals_LISTS.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharpFundamentals_LISTS\CSharpFundamentals_LISTS\obj\Debug\CSharpFundamentals_LISTS.pdb

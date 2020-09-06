@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.pdb

@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\obj\Debug\Dynamic.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

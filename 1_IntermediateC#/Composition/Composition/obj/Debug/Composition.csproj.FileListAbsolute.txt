@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\obj\Debug\Composition.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\obj\Debug\Composition.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Composition\Composition\obj\Debug\Composition.pdb

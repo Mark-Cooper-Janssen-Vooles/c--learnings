@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Indexers\Indexers\obj\Debug\Indexers.pdb

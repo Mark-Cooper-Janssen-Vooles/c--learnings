@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\bin\Release\HelloWorld2.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\bin\Release\HelloWorld2.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\bin\Release\HelloWorld2.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\obj\Release\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\obj\Release\HelloWorld2.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\HelloWorld2\HelloWorld2\obj\Release\HelloWorld2.pdb

@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Classes\Classes\obj\Debug\Classes.pdb

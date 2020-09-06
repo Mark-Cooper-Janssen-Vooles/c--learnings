@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Delegates\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Association_Between_Classes", "Association_Between_Classes\Association_Between_Classes.csproj", "{256529A6-BB5B-4828-811D-E4A0EA8725BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256529A6-BB5B-4828-811D-E4A0EA8725BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256529A6-BB5B-4828-811D-E4A0EA8725BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256529A6-BB5B-4828-811D-E4A0EA8725BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256529A6-BB5B-4828-811D-E4A0EA8725BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A708F9B-DF76-4F27-AE49-64AFB6C55F9A}
+	EndGlobalSection
+EndGlobal

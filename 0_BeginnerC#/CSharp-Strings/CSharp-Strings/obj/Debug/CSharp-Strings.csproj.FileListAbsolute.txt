@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\bin\Debug\CSharp-Strings.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\bin\Debug\CSharp-Strings.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\bin\Debug\CSharp-Strings.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\obj\Debug\CSharp-Strings.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\obj\Debug\CSharp-Strings.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\obj\Debug\CSharp-Strings.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Strings\CSharp-Strings\obj\Debug\CSharp-Strings.csprojAssemblyReference.cache

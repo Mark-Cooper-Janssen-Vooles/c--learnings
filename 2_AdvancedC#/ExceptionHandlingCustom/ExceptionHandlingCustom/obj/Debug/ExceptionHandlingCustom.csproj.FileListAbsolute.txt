@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\bin\Debug\ExceptionHandlingCustom.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\bin\Debug\ExceptionHandlingCustom.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\bin\Debug\ExceptionHandlingCustom.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\obj\Debug\ExceptionHandlingCustom.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\obj\Debug\ExceptionHandlingCustom.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\obj\Debug\ExceptionHandlingCustom.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\ExceptionHandlingCustom\ExceptionHandlingCustom\obj\Debug\ExceptionHandlingCustom.pdb

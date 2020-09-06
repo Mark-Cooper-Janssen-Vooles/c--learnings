@@ -1,0 +1,17 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\InterfacesTestibility.Tests.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\InterfacesTestibility.Tests.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\InterfacesTestability.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\InterfacesTestability.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\InterfacesTestability.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\obj\Debug\InterfacesTestibility.UnitTests.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\obj\Debug\InterfacesTestibility.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\obj\Debug\InterfacesTestibility.UnitTests.csproj.CopyComplete
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\obj\Debug\InterfacesTestibility.Tests.dll
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestibility.Tests\obj\Debug\InterfacesTestibility.Tests.pdb

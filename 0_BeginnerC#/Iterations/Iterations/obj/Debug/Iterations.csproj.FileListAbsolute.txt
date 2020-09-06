@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\obj\Debug\Iterations.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Iterations\Iterations\obj\Debug\Iterations.pdb

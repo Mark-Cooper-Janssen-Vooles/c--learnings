@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Conditionals\Conditionals\obj\Debug\Conditionals.pdb

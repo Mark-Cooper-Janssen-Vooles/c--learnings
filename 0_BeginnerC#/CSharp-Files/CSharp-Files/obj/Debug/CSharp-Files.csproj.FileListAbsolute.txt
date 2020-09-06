@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\bin\Debug\CSharp-Files.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\bin\Debug\CSharp-Files.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\bin\Debug\CSharp-Files.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\obj\Debug\CSharp-Files.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\obj\Debug\CSharp-Files.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\obj\Debug\CSharp-Files.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-Files\CSharp-Files\obj\Debug\CSharp-Files.pdb

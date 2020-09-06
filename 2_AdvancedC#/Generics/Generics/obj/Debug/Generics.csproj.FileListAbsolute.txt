@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\2_AdvancedC#\Generics\Generics\obj\Debug\Generics.pdb

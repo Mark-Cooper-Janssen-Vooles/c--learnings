@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\bin\Debug\Constructors2.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\bin\Debug\Constructors2.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\bin\Debug\Constructors2.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\obj\Debug\Constructors2.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\obj\Debug\Constructors2.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\obj\Debug\Constructors2.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Constructors2\Constructors2\obj\Debug\Constructors2.pdb

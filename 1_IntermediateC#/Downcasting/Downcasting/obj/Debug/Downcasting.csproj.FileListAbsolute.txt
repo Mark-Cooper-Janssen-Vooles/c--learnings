@@ -1,0 +1,15 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\bin\Debug\Downcasting.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\bin\Debug\Downcasting.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\bin\Debug\Downcasting.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\MainWindow.g.cs
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\App.g.cs
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting_MarkupCompile.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting_MarkupCompile.lref
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\MainWindow.baml
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.g.resources
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.Properties.Resources.resources
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.csproj.GenerateResource.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\Downcasting\Downcasting\obj\Debug\Downcasting.pdb

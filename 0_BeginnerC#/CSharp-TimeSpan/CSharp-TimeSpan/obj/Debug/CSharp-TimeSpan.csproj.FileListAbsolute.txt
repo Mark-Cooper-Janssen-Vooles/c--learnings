@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\bin\Debug\CSharp-TimeSpan.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\bin\Debug\CSharp-TimeSpan.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\bin\Debug\CSharp-TimeSpan.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\obj\Debug\CSharp-TimeSpan.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\obj\Debug\CSharp-TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\obj\Debug\CSharp-TimeSpan.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\CSharp-TimeSpan\CSharp-TimeSpan\obj\Debug\CSharp-TimeSpan.pdb

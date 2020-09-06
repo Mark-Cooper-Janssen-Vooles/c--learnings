@@ -1,0 +1,6 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\bin\Debug\Csharp-debug-stuff.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\bin\Debug\Csharp-debug-stuff.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\bin\Debug\Csharp-debug-stuff.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\obj\Debug\Csharp-debug-stuff.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\obj\Debug\Csharp-debug-stuff.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\Csharp-debug-stuff\Csharp-debug-stuff\obj\Debug\Csharp-debug-stuff.pdb

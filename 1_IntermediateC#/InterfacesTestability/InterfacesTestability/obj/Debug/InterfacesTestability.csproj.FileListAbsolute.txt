@@ -1,0 +1,7 @@
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\bin\Debug\InterfacesTestability.exe.config
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\bin\Debug\InterfacesTestability.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\bin\Debug\InterfacesTestability.pdb
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\obj\Debug\InterfacesTestability.csprojAssemblyReference.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\obj\Debug\InterfacesTestability.csproj.CoreCompileInputs.cache
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\obj\Debug\InterfacesTestability.exe
+C:\Users\mark.janssen-vooles\code\tutorials\c#-learnings\1_IntermediateC#\InterfacesTestability\InterfacesTestability\obj\Debug\InterfacesTestability.pdb
